@@ -17,5 +17,6 @@ def minOperations(n):
             n = n / i
             if n < i:
                 break
+    
     return p            
    
