@@ -5,7 +5,7 @@ create a certain number of characters.
 '''
 
 
-def minOperation(n):
+def minOperations(n):
     p=0
     
     if n <= 1:
