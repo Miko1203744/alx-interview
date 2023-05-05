@@ -8,7 +8,7 @@ create a certain number of characters.
 def minOperation(n):
     p=0
     
-    if n <=1:
+    if n <= 1:
         return p
     
     for i in range(2, n + 1):
